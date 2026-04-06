@@ -1,0 +1,12 @@
+{
+  "name": "cmo-deck-generator",
+  "version": "1.0.0",
+  "description": "Generates the CMO Supply Chain Strategy PowerPoint presentation (Ferrari & Bori)",
+  "main": "build_final.js",
+  "scripts": {
+    "build": "node build_final.js"
+  },
+  "dependencies": {
+    "pptxgenjs": "^3.12.0"
+  }
+}
